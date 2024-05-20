@@ -1,0 +1,347 @@
+UserID: 5371025901 | Time: 2024-05-17 09:58:21.126753 | Command: /bgmi | Target: 20.204.9.189 | Port: 11480 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.9.189
+Port: 11480
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 10:10:13.026654 | Command: /bgmi | Target: 4.247.20.25 | Port: 21718 | Time: 240
+Username: @KhanDeveloper0
+Target: 4.247.20.25
+Port: 21718
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 10:28:54.016458 | Command: /bgmi | Target: 20.204.39.91 | Port: 24795 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.39.91
+Port: 24795
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 10:45:55.967516 | Command: /bgmi | Target: 20.235.19.186 | Port: 28905 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.19.186
+Port: 28905
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 12:17:47.413239 | Command: /bgmi | Target: 20.198.110.192 | Port: 23363 | Time: 240
+UserID: 5371025901 | Time: 2024-05-17 12:19:28.599403 | Command: /bgmi | Target: 20.198.110.192 | Port: 23363 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.198.110.192
+Port: 23363
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 12:32:08.556981 | Command: /bgmi | Target: 20.235.93.18 | Port: 29571 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.93.18
+Port: 29571
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 13:22:41.429903 | Command: /bgmi | Target: 20.235.10.129 | Port: 11882 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.10.129
+Port: 11882
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 13:23:58.634587 | Command: /bgmi | Target: 20.204.182.9 | Port: 12320 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.182.9
+Port: 12320
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 13:28:40.864641 | Command: /bgmi | Target: 20.204.190.0 | Port: 10038 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.190.0
+Port: 10038
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 14:10:11.005833 | Command: /bgmi | Target: 20.235.92.252 | Port: 11807 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.92.252
+Port: 11807
+Time: 240
+
+UserID: 808697013 | Time: 2024-05-17 15:24:18.909452 | Command: /bgmi | Target: 20.198.107.126 | Port: 10728 | Time: 240
+Username: @DLS_Gamer_YT
+Target: 20.198.107.126
+Port: 10728
+Time: 240
+
+UserID: 808697013 | Time: 2024-05-17 15:33:11.565758 | Command: /bgmi | Target: 13.76.102.115 | Port: 17500 | Time: 240
+Username: @DLS_Gamer_YT
+Target: 13.76.102.115
+Port: 17500
+Time: 240
+
+UserID: 808697013 | Time: 2024-05-17 15:56:39.473236 | Command: /bgmi | Target: 13.76.102.115 | Port: 17500 | Time: 140
+Username: @DLS_Gamer_YT
+Target: 13.76.102.115
+Port: 17500
+Time: 140
+
+UserID: 5371025901 | Time: 2024-05-17 16:05:33.097820 | Command: /bgmi | Target: 20.204.189.60 | Port: 10042 | Time: 240
+UserID: 808697013 | Time: 2024-05-17 16:37:16.873909 | Command: /bgmi | Target: 20.219.78.93 | Port: 24732 | Time: 240
+Username: @DLS_Gamer_YT
+Target: 20.219.78.93
+Port: 24732
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 16:39:01.283050 | Command: /bgmi | Target: 20.235.49.85 | Port: 19996 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.49.85
+Port: 19996
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 16:54:54.784683 | Command: /bgmi | Target: 20.198.108.203 | Port: 18501 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.198.108.203
+Port: 18501
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 17:23:36.552776 | Command: /bgmi | Target: 20.198.108.71 | Port: 12849 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.198.108.71
+Port: 12849
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 17:33:02.324812 | Command: /bgmi | Target: 20.198.74.110 | Port: 26215 | Time: 240
+UserID: 5371025901 | Time: 2024-05-17 17:34:49.528815 | Command: /bgmi | Target: 20.198.74.110 | Port: 26215 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.198.74.110
+Port: 26215
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 17:40:28.040946 | Command: /bgmi | Target: 20.235.53.124 | Port: 26949 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.53.124
+Port: 26949
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 18:20:04.957548 | Command: /bgmi | Target: 4.247.20.151 | Port: 28175 | Time: 240
+Username: @KhanDeveloper0
+Target: 4.247.20.151
+Port: 28175
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-17 18:33:24.110360 | Command: /bgmi | Target: 20.235.20.241 | Port: 19617 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.20.241
+Port: 19617
+Time: 240
+
+UserID: 808697013 | Time: 2024-05-17 18:58:35.523418 | Command: /bgmi | Target: 20.219.1.52 | Port: 12294 | Time: 240
+Username: @DLS_Gamer_YT
+Target: 20.219.1.52
+Port: 12294
+Time: 240
+
+UserID: 808697013 | Time: 2024-05-17 19:07:40.564064 | Command: /bgmi | Target: 20.204.88.179 | Port: 22722 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.204.88.179
+Port: 22722
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-17 19:18:51.314875 | Command: /bgmi | Target: 4.247.17.228 | Port: 10635 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 4.247.17.228
+Port: 10635
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-18 05:27:45.782375 | Command: /bgmi | Target: 20.204.178.70 | Port: 17469 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.204.178.70
+Port: 17469
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-18 06:31:23.905805 | Command: /bgmi | Target: 52.140.45.121 | Port: 20736 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 52.140.45.121
+Port: 20736
+Time: 180
+
+UserID: 5371025901 | Time: 2024-05-18 10:10:43.716335 | Command: /bgmi | Target: 4.213.68.242 | Port: 25963 | Time: 240
+Username: @KhanDeveloper0
+Target: 4.213.68.242
+Port: 25963
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-18 10:17:13.713991 | Command: /bgmi | Target: 20.235.10.172 | Port: 11349 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.10.172
+Port: 11349
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-18 13:15:17.221447 | Command: /bgmi | Target: 52.172.14.175 | Port: 11630 | Time: 240
+Username: @KhanDeveloper0
+Target: 52.172.14.175
+Port: 11630
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-18 13:26:07.708092 | Command: /bgmi | Target: 20.235.51.188 | Port: 29871 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.51.188
+Port: 29871
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-18 14:24:44.772276 | Command: /bgmi | Target: 20.235.147.109 | Port: 13010 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.147.109
+Port: 13010
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-18 14:33:26.138823 | Command: /bgmi | Target: 4.213.65.122 | Port: 28650 | Time: 240
+Username: @KhanDeveloper0
+Target: 4.213.65.122
+Port: 28650
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-18 15:26:08.447271 | Command: /bgmi | Target: 20.204.18.30 | Port: 16259 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.18.30
+Port: 16259
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-18 15:28:57.641466 | Command: /bgmi | Target: 20.235.147.115 | Port: 29734 | Time: 180
+Username: @KhanDeveloper0
+Target: 20.235.147.115
+Port: 29734
+Time: 180
+
+UserID: 5371025901 | Time: 2024-05-18 15:34:43.437674 | Command: /bgmi | Target: 52.140.18.12 | Port: 16949 | Time: 240
+Username: @KhanDeveloper0
+Target: 52.140.18.12
+Port: 16949
+Time: 240
+
+UserID: 808697013 | Time: 2024-05-18 15:47:04.268502 | Command: /bgmi | Target: 20.235.14.82 | Port: 11691 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.235.14.82
+Port: 11691
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-18 16:35:31.883511 | Command: /bgmi | Target: 4.213.64.221 | Port: 13791 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 4.213.64.221
+Port: 13791
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-19 05:45:07.678475 | Command: /bgmi | Target: 20.219.167.77 | Port: 23428 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.219.167.77
+Port: 23428
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-19 06:24:59.554980 | Command: /bgmi | Target: 20.198.111.42 | Port: 27450 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.198.111.42
+Port: 27450
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-19 06:39:17.552621 | Command: /bgmi | Target: 20.40.43.63 | Port: 10959 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.40.43.63
+Port: 10959
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-19 06:44:43.367725 | Command: /bgmi | Target: 20.204.16.218 | Port: 24215 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.204.16.218
+Port: 24215
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-19 07:51:13.125703 | Command: /bgmi | Target: 20.204.88.179 | Port: 22742 | Time: 180
+Username: @DLS_Gamer_YT
+Target: 20.204.88.179
+Port: 22742
+Time: 180
+
+UserID: 808697013 | Time: 2024-05-19 10:13:57.655652 | Command: /bgmi | Target: 20.198.110.192 | Port: 23430 | Time: 180
+UserID: 5371025901 | Time: 2024-05-19 10:19:47.807305 | Command: /bgmi | Target: 20.235.16.126 | Port: 23323 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.16.126
+Port: 23323
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 11:21:48.659087 | Command: /bgmi | Target: 20.198.110.192 | Port: 23281 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.198.110.192
+Port: 23281
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 11:59:24.448928 | Command: /bgmi | Target: 20.198.72.188 | Port: 17546 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.198.72.188
+Port: 17546
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 15:10:55.118060 | Command: /bgmi | Target: 20.235.53.133 | Port: 28051 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.53.133
+Port: 28051
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 15:25:41.909261 | Command: /bgmi | Target: 20.235.146.124 | Port: 17614 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.146.124
+Port: 17614
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 15:58:50.361835 | Command: /bgmi | Target: 20.204.190.0 | Port: 10296 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.190.0
+Port: 10296
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 16:51:20.942463 | Command: /bgmi | Target: 20.235.18.229 | Port: 28951 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.18.229
+Port: 28951
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 17:37:42.557635 | Command: /bgmi | Target: 20.198.76.92 | Port: 18365 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.198.76.92
+Port: 18365
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 17:49:30.975449 | Command: /bgmi | Target: 20.235.91.249 | Port: 20515 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.91.249
+Port: 20515
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 18:08:12.527626 | Command: /bgmi | Target: 20.235.17.115 | Port: 10491 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.17.115
+Port: 10491
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 18:23:53.512956 | Command: /bgmi | Target: 52.140.43.89 | Port: 23211 | Time: 240
+Username: @KhanDeveloper0
+Target: 52.140.43.89
+Port: 23211
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-19 18:41:59.344727 | Command: /bgmi | Target: 20.204.191.209 | Port: 10176 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.191.209
+Port: 10176
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-20 01:07:34.014044 | Command: /bgmi | Target: 20.235.51.165 | Port: 26812 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.235.51.165
+Port: 26812
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-20 06:08:27.598604 | Command: /bgmi | Target: 20.219.77.232 | Port: 20408 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.219.77.232
+Port: 20408
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-20 07:03:00.701252 | Command: /bgmi | Target: 20.204.88.149 | Port: 20959 | Time: 240
+Username: @KhanDeveloper0
+Target: 20.204.88.149
+Port: 20959
+Time: 240
+
+UserID: 5371025901 | Time: 2024-05-20 07:11:20.824215 | Command: /bgmi | Target: 20.219.167.77 | Port: 23321 | Time: 240
